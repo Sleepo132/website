@@ -1,0 +1,91 @@
+* {
+    outline: 1px red;
+}
+
+h1 {
+    color: #FACF5A;
+    text-align: center;
+    font-size: 90px;
+    margin: 0 
+    12px 0 0;
+    
+}
+
+hr {
+    width: 10%;
+    border-style: dotted none none none;
+    border-width: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #b66d19;
+}
+
+body {
+    background-color: #233142;
+    font-family: 'Reem Kufi', sans-serif;
+   
+
+}
+
+.sub {
+    color: #FF5959;
+   
+}
+
+.subtitle {
+    color: #4F9DA6;
+    margin-bottom: 7px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+
+.whoops {
+  
+    display: flex;
+    align-items: stretch;
+
+}
+
+.reem {
+    display: flex;
+    float: left;
+    width:50%;
+    color: #4F9DA6;
+    justify-self: flex-start;
+    background-color: #FFDD83;
+}
+
+.nabeel {
+    display: flex;
+    float: left;
+    padding: 10px;
+    width:50%;
+    color: #4F9DA6;
+    background-color: #A6ED8E;
+    
+}
+
+.img {
+    margin-left: auto; 
+    width: 300px;
+    height: 300px;
+    
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+
+.finale {
+    width: 300px;
+    height: 300px;
+}
